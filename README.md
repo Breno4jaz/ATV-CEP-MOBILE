@@ -1,0 +1,9 @@
+- expo install expo-font @expo-google-fonts/oswald
+- expo install expo-app-loading
+- yarn add @react-navigation/native
+- expo install react-native-screens react-native-safe-area-context
+- yarn add @react-navigation/drawer
+- yarn add react-native-reanimated
+- expo install react-native-gesture-handler react-native-reanimated
+- https://reactnavigation.org/docs/drawer-navigator
+- npm install axios
